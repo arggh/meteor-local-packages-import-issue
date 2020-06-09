@@ -1,0 +1,15 @@
+{
+  "name": "thingie",
+  "version": "1.0.0-3b2d0d4d",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "files": [
+    "index.js",
+    "messages.ftl"
+  ]
+}
